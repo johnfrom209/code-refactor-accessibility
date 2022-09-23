@@ -46,6 +46,10 @@ This is a webpage for viewing. Refer to the image below for the final product.
 
 Starter code was supplied by UCB Coding bootcamp. 
 
+## Contact Me
+
+[Linkedin](https://www.linkedin.com/in/johnfrom209/)
+
 [View my Github Repo](https://github.com/johnfrom209)
 
 ## License
