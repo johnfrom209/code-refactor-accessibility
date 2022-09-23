@@ -28,6 +28,7 @@ In this project I was given some starter code with some HTML and CSS files. Now 
 } */
 
 ```
+There were plenty of repeated settings, so I consolidated them into a single group. In the example above I created the .benefits h3 and copied the settings over. I commented out the redundant code and saved the file which resulted in the same look. I repeated this for several other lines of code. 
 
 ## Installation
 
