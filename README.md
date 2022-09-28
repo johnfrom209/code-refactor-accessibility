@@ -4,7 +4,7 @@
 
 In this project I was given some starter code with some HTML and CSS files. Now that I have an understanding of HTML and CSS, this project was an opportunity to put my knowledge to the test. I was able to look through those files and find redundant code. My goal was to reduce the amount of repeated code and consolidate it into the appropriate class without changing how the website looked on a webpage.  
 
-```
+```css
 .benefits h3 {
     margin-top: 10px;
     margin-bottom: 10px;
